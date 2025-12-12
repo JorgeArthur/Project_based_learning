@@ -1,0 +1,482 @@
+"tag","ds_hierarquia_a","ds_hierarquia_b"
+w3 - solicitacao - 2 via cartao fraudado,Cartão,Segunda via cartão
+wb-cdu,Cartão,Lançamentos duplicados
+w3 - solicitacao - cancelar insatisfacao,Cartão,Cancelamento de conta
+w3 - duvida - cancelamento de compra,Cartão,Cancelamento de compra no crédito
+wb-cf,Cartão,Compensação fatura
+w3 - problema - bloqueio judicial saldo conta,Fraude,Conta bloqueada ou desbloqueada
+w3 - problema - compensacao fatura diferente,Cartão,Compensação fatura
+w3 - duvida - bloqueio por atraso,Cartão,Dúvidas sobre pagamento de fatura
+w3 - duvida - status de conta,Fraude,Conta bloqueada ou desbloqueada
+w3 - duvida - contratacao fgts,Empréstimos,Dúvidas FGTS
+w3 - solicitacao - resgate antecipado de cdb,Conta,Investimento CDB
+w3 - solicitacao - cancelar ted,Conta,Envio de TED
+w3 - problema - pagamento boleto duplicado,Conta,Pagamento de Boleto
+w3 - problema - comunicacao entrega,Cartão,Rastreio de cartão
+w3 - problema - seguro conta protegida,Conta,Contratação de seguro
+w3 - duvida - nova proposta,Cartão,Resultado da Proposta
+w3 - duvida - token sms proposta,Cartão,Token SMS
+w3 - duvida - aparelho seguro,Fraude,Validação novo dispositivo
+w3 - problema - acareacao,Cartão,Problema no recebimento do cartão
+w3 - solicitacao - extrato conta,Conta,Gestão de Extrato
+wb-fpi,Fraude,Falsidade ideológica
+w3 - duvida - apos solicitar 2 via,Cartão,Rastreio de cartão
+wb-rci,Conta,Rendimento Conta
+wb-tdo,Conta,Envio de TED
+w3 - problema - gift card loja will,Conta,Problemas com Gift Card
+wb-rpi,Conta,Recebimento de PIX
+w3 - problema - seguro,Conta,Contratação de seguro
+w3 - solicitacao - cancelar gift card loja will,Conta,Dúvidas regras do Gift Card
+w3 - denuncia - nao cliente golpe compra,Fraude,Denúncia
+w3 - duvida - compensacao bancaria,Cartão,Compensação fatura
+w3 - problema - nao reconhece pix,Fraude,Não reconhecimento de PIX
+w3 - solicitacao - desbloqueio prevencao fraude,Cartão,Desbloqueio de cartão
+w3 - problema - nao reconhece compra informacao insuficiente,Fraude,Não reconhecimento de compra no crédito
+w3 - solicitacao - cancelar tarifas e encargos,Cartão,Cancelamento de conta
+w3 - solicitacao - custodia,Cartão,Reenvio de cartão
+w3 - duvida - cliente em fechamento de fatura,Cartão,Dúvidas sobre pagamento de fatura
+w3 - solicitacao - alterar endereco,Fraude,Alteração de Cadastro
+wb-cad,Cartão,Cartão
+w3 - duvida - compensacao fatura diferente,Cartão,Compensação fatura
+w3 - duvida - limite de saque,Conta,Gestão de Saque
+w3 - duvida - autosservico fgts,Empréstimos,Dúvidas FGTS
+w3 - problema - seguro cartao protegido,Conta,Contratação de seguro
+wb-emp,Empréstimos,Dúvidas Empréstimo Pessoal
+wb-ir,Conta,Rendimento Conta
+w3 - denuncia - nao cliente golpe pix,Fraude,Denúncia
+w3 - problema - pix open finance,Conta,Open Finance
+w3 - solicitacao - 2 via outros motivos,Cartão,Segunda via cartão
+w3 - duvida - data de fechamento,Cartão,Fechamento Fatura
+w3 - solicitacao - reenvio de boleto cliente em atraso,Cartão,Gerar fatura
+w3 - problema - boleto nao registrado,Cartão,Gerar fatura
+wb-erts,Cartão,Token SMS
+w3 - duvida - limite pix no credito,Cartão,Todos os itens de pix no crédito
+w3 - duvida - investimento cdb,Conta,Investimento CDB
+w3 - duvida - notificacao de compra,Cartão,Notificação de compra
+w3 - problema - falha na entrega,Cartão,Problema no recebimento do cartão
+w3 - duvida - chave pix will CFI,Conta,Recebimento de PIX
+w3 - duvida - opcoes de seguro,Conta,Contratação de seguro
+w3 - duvida - notificacao loja will,Conta,Comunicação Loja will
+w3 - problema - comprovante ted,Conta,Comprovante de TED
+w3 - problema - proposta web,Cartão,Problema de Cadastro da proposta
+w3 - solicitacao - 2 via cartao danificado,Cartão,Segunda via cartão
+w3 - duvida - visualizar fatura,Cartão,Gerar fatura
+w3 - duvida - reenvio cartao,Cartão,Reenvio de cartão
+w3 - duvida - pix no credito,Cartão,Todos os itens de pix no crédito
+w3 - problema - visualizar fatura,Cartão,Gerar fatura
+w3 - problema - dificil acesso/zona rural Total Express,Cartão,Problema no recebimento do cartão
+w3 - problema - cadastrar cartao samsung pay,Cartão,Wallet
+w3 - duvida - mgm fgts,Empréstimos,Dúvida MGM FGTS
+w3 - solicitacao - campanha toma promocao,Cartão,Dúvidas sobre campanha
+w3 - solicitacao - 2 via desconhece recebimento,Cartão,Segunda via cartão
+w3 - duvida - realizar ted,Conta,Envio de TED
+w3 - interacao - cliente retido,Cartão,Cancelamento de conta
+w3 - problema - compra nao autorizada online,Cartão,Recusa de compra
+wb-saq,Conta,Gestão de Saque
+w3 - problema - data de fechamento,Cartão,Fechamento Fatura
+w3 - problema - compra duplicada,Cartão,Lançamentos duplicados
+w3 - duvida - valor das proximas faturas,Cartão,Faturas futuras
+w3 - problema - nao reconhece ted,Fraude,Não reconhecimento de recarga/título/ted
+wb-erte,Cartão,Token E-mail
+w3 - solicitacao - declaracao de cancelamento,Cartão,Cancelamento de conta
+w3 - duvida - detalhamento de faturas,Cartão,Faturas futuras
+w3 - duvida - contactless,Cartão,Funcionalidades de cartão
+wb-afr,Fraude,Falsidade ideológica
+w3 - duvida - extrato conta,Conta,Gestão de Extrato
+w3 - duvida - pix no debito,Conta,Envio de PIX
+w3 - duvida - status producao cartao,Cartão,Status da Proposta
+w3 - solicitacao - alterar senha acesso app,Fraude,Alteração de senha
+w3 - problema - nao reconhece compra via google pay,Fraude,Não reconhecimento de compra no crédito
+w3 - problema - estorno de encargos teto de juros,Cartão,Dúvidas em lançamentos
+w3 - problema - token alterar telefone,Fraude,Alteração de Cadastro
+w3 - solicitacao - devolucao de credito para cancelamento,Cartão,Cancelamento de conta
+w3 - problema - cashback loja will,Conta,Reclamação pagamento cashback
+w3 - problema - black friday cdb,Conta,Black Friday CDB
+w3 - problema - agendar recarga,Conta,Gestão de Recarga
+w3 - reclamacao - desconhece recebimento,Cartão,Problema no recebimento do cartão
+w3 - problema - chave pix will CFI,Conta,Recebimento de PIX
+w3 - duvida - pagar boleto,Conta,Pagamento de Boleto
+wb-cv,Cartão,Cartão
+w3 - problema - erro senha app,Cartão,Funcionalidades de cartão
+w3 - duvida - cadastro web,Cartão,Alteração de Cadastro
+w3 - reclamacao - migracao will,Cartão,Migração pag para will
+w3 - problema - nao reconhece saque,Fraude,Gestão de Saque
+w3 - duvida - compra via google pay,Cartão,Wallet
+wb-cec,Cartão,Cancelamento de compra no crédito
+w3 - solicitacao - cancelar contencao de gastos,Cartão,Cancelamento de conta
+w3 - duvida - pagar boleto com credito,Conta,Pagamento de Boleto
+wb-vpf,Cartão,Faturas futuras
+w3 - duvida - portabilidade pix,Conta,Chaves PIX
+w3 - solicitacao - assuntos diversos emprestimo pessoal,Empréstimos,Solicitações Empréstimo Pessoal
+w3 - duvida - conta simples,Conta,Beneficios Conta Simples
+w3 - reclamacao - atraso entrega,Cartão,Rastreio de cartão
+wb-at,Cartão,Reenvio de cartão
+w3 - problema - resgate gift card loja will,Conta,Problemas com Gift Card
+w3 - duvida - seguro,Conta,Contratação de seguro
+w3 - problema - nao reconhece compra contactless,Fraude,Não reconhecimento de compra no crédito
+w3 - solicitacao - desbloqueio perda roubo dispositivo,Fraude,Validação novo dispositivo
+w3 - solicitacao - alterar dados cadastrais,Fraude,Alteração de Cadastro
+wb-cp,Conta,Chaves PIX
+w3 - problema - comprovante de pagamento de fatura,Cartão,Informações sobre fatura
+w3 - problema - cadastro app,Cartão,Status da Proposta
+w3 - problema - token sms proposta,Cartão,Token SMS
+w3 - problema - alterar senha de 4 numeros,Fraude,Alteração de senha
+w3 - duvida - debito automatico,Conta,Pagamento de Boleto
+w3 - duvida - anuidade,Cartão,Informações sobre fatura
+w3 - problema - rastreio sem atualizacao,Cartão,Rastreio de cartão
+w3 - problema - pix estornado pela instituicao de destino,Conta,Envio de PIX
+wb-fgts,Empréstimos,Dúvidas FGTS
+w3 - duvida - cartao black,Cartão,Cartão
+w3 - solicitacao - cancelar recarga agendada,Conta,Gestão de Recarga
+w3 - problema - cliente conta dual cancelada sem registro,Conta,Gestão da Conta
+w3 - solicitacao - retirada elegibilidade pix parcelado,Empréstimos,Solicitação PIX Parcelado Pós Venda
+w3 - solicitacao - alterar senha de 4 numeros,Fraude,Alteração de senha
+w3 - solicitacao - cancelar limite baixo,Cartão,Cancelamento de conta
+w3 - duvida - compra duplicada,Cartão,Lançamentos duplicados
+wb-gf,Cartão,Gestão de Fatura
+w3 - duvida - limite pix,Conta,Dúvidas PIX
+w3 - duvida - saldo conta,Conta,Gestão de Saldo
+w3 - solicitacao - informe de rendimento will financeira,Conta,Rendimento Conta
+w3 - duvida - antecipacao fatura,Cartão,Antecipação de Fatura
+w3 - solicitacao - fatura por e-mail,Cartão,Gerar fatura
+w3 - problema - boleto externo nao compensado,Conta,Pagamento de Boleto
+w3 - duvida - antecipar parcelas de compras,Cartão,Antecipação de Fatura
+w3 - solicitacao - 2 via reenvio apos acareacao,Cartão,Segunda via cartão
+w3 - reclamacao - resultado analise de contestacao,Fraude,Resultado análise de fraude
+w3 - duvida - pagar fatura com pix,Cartão,Pix Fatura
+w3 - duvida - migracao will,Cartão,Migração pag para will
+w3 - reclamacao - cancelamento por falsidade ideologica,Fraude,Falsidade ideológica
+w3 - problema - pix no credito com mais prazo,Cartão,Pix no crédito
+w3 - problema - compra recusada prilex sem fraude,Cartão,Recusa de compra
+w3 - duvida - bloqueio e desbloqueio temporario,Cartão,Desbloqueio de cartão
+wb-fr,Cartão,Fatura duplicada
+w3 - problema - pagar fatura com pix,Cartão,Pix Fatura
+w3 - duvida - recarga no app,Conta,Gestão de Recarga
+wb-rce,Conta,Gestão de Recarga
+w3 - problema - resultado da proposta,Cartão,Resultado da Proposta
+w3 - duvida - tarifas e encargos atraso,Cartão,Informações sobre fatura
+w3 - duvida - alterar vencimento,Cartão,Vencimento fatura
+w3 - problema - bloqueio erro cvc,Cartão,Desbloqueio de cartão
+w3 - duvida - confirmacao de lancamentos,Conta,Gestão de Extrato
+w3 - solicitacao - cancelamento travado,Cartão,Cancelamento de conta
+w3 - problema - compensacao saldo conta,Cartão,Compensação fatura
+wb-cfa,Cartão,Informações sobre fatura
+w3 - duvida - prazo compensacao pix,Conta,Envio de PIX
+w3 - problema - compensacao bancaria,Cartão,Compensação fatura
+w3 - problema - contactless,Cartão,Funcionalidades de cartão
+w3 - duvida - debito cartao fisico,Conta,Uso do cartão de débito
+wb-pcmd,Cartão,Problema com compra
+w3 - duvida - reversao de compra,Cartão,Recusa de compra
+w3 - problema - token alteracao senha e-mail,Cartão,Token E-mail
+w3 - problema - pagamento de titulo nao compensado no destino beneficiario bloqueado,Conta,Boleto de Depósito
+w3 - duvida - realizar deposito,Conta,Boleto de Depósito
+w3 - problema - historico de recarga,Conta,Gestão de Recarga
+w3 - problema - contratacao de seguro debito em conta,Conta,Contratação de seguro
+w3 - duvida - cupom loja will,Conta,Cupom loja will
+w3 - duvida - estorno de encargos teto de juros,Cartão,Dúvidas em lançamentos
+w3 - problema - pagar boleto,Conta,Pagamento de Boleto
+w3 - solicitacao - reenvio cartao,Cartão,Reenvio de cartão
+w3 - complementar - teste ethoca,Fraude,Não reconhecimento de compra no crédito
+w3 - reclamacao - bloqueio por atraso,Cartão,Dúvidas sobre pagamento de fatura
+w3 - problema - erro fgts,Empréstimos,Erro FGTS
+w3 - problema - fatura por e-mail,Cartão,Gerar fatura
+w3 - duvida - contratacao emprestimo pessoal,Empréstimos,Dúvidas Empréstimo Pessoal
+w3 - problema - notificacao de compra,Cartão,Notificação de compra
+w3 - solicitacao - alterar email proposta,Cartão,Alteração de Cadastro na Proposta
+w3 - solicitacao - alterar telefone proposta,Cartão,Alteração de Cadastro na Proposta
+w3 - solicitacao - extrato loja will,Conta,Dúvidas regras do cashback
+w3 - solicitacao - retirada elegibilidade emprestimo pessoal,Empréstimos,Solicitações Empréstimo Pessoal
+w3 - problema - nao reconhece gift card,Fraude,Não reconhecimento de Gift Card
+w3 - duvida - cartao adicional,Cartão,Cartão
+wb-dfp,Cartão,Informações sobre fatura
+w3 - duvida - beneficios conta simples,Conta,Beneficios Conta Simples
+w3 - duvida - cancelar pix,Conta,Envio de PIX
+wb-svi,Cartão,Segunda via cartão
+w3 - duvida - prazo de compensacao ted,Conta,Envio de TED
+w3 - problema - pix no debito,Conta,Envio de PIX
+w3 - problema - extrato conta,Conta,Gestão de Extrato
+wb-avf,Cartão,Vencimento fatura
+w3 - solicitacao - cancelar falecimento titular,Cartão,Cancelamento de conta
+w3 - problema - saque limite de credito,Conta,Gestão de Saque
+w3 - solicitacao - alterar e-mail proposta,Cartão,Alteração de Cadastro na Proposta
+w3 - duvida - fim do samsung pay,Cartão,Wallet
+w3 - problema - recarga nao compensada,Conta,Gestão de Recarga
+w3 - duvida - gift card loja will,Conta,Dúvidas regras do Gift Card
+w3 - duvida - pix no credito com mais prazo,Cartão,Pix no crédito
+w3 - solicitacao - comprovante pix,Conta,Gerar comprovante de PIX
+w3 - duvida - aviso viagem,Cartão,Funcionalidades de cartão
+w3 - problema - token 3ds,Fraude,Token 3DS
+w3 - problema - compra nao autorizada debito fisico,Conta,Uso do cartão de débito
+w3 - problema - antecipacao fatura,Cartão,Antecipação de Fatura
+w3 - problema - link de acompanhamento,Cartão,Rastreio de cartão
+wb-vdnu,Cartão,Vencimento fatura
+w3 - problema - compensacao de boleto,Conta,Pagamento de Boleto
+wb-ep,Conta,Envio de PIX
+w3 - duvida - data de vencimento,Cartão,Vencimento fatura
+w3 - duvida - retirada nos correios,Cartão,Rastreio de cartão
+w3 - solicitacao - cancelar falta de funcionalidades,Cartão,Cancelamento de conta
+w3 - duvida - credito na conta simples,Conta,Limite de crédito em Conta Simples
+w3 - duvida - parceiro loja will,Conta,Novos Parceiros
+w3 - duvida - estorno,Cartão,Cancelamento de compra no crédito
+w3 - solicitacao - 2 via cartao roubado,Cartão,Segunda via cartão
+w3 - solicitacao - 2 via extraviado ou sinistrado,Cartão,Segunda via cartão
+w3 - duvida - credito provisorio,Cartão,Dúvidas em lançamentos
+w3 - solicitacao - cancelamento de seguro,Conta,Contratação de seguro
+w3 - solicitacao - resultado analise de autorizacao de dispositivo,Fraude,Resultado análise de fraude
+w3 - duvida - samsung pay,Cartão,Wallet
+w3 - reclamacao - compra nao lancada,Cartão,Problema com compra
+w3 - duvida - como acessar loja will,Conta,Dúvidas Marketplace
+w3 - problema - valor minimo,Cartão,Dúvidas sobre pagamento de fatura
+w3 - solicitacao - DDC fgts,Empréstimos,Solicitações FGTS
+w3 - duvida - atraso emprestimo pessoal,Empréstimos,Dúvidas Empréstimo Pessoal
+w3 - duvida - quitacao,Cartão,Dúvidas sobre pagamento de fatura
+wb-sca,Cartão,Status da Proposta
+w3 - problema - pix credito nao compensado no destino,Cartão,Todos os itens de pix no crédito
+w3 - problema - formas de pagamento,Cartão,Dúvidas sobre pagamento de fatura
+w3 - problema - pagamento emprestimo pessoal,Empréstimos,Erros Empréstimo Pessoal
+w3 - problema - dificil acesso/zona rural Flash Courier,Cartão,Problema no recebimento do cartão
+w3 - problema - gerar fatura,Cartão,Gerar fatura
+w3 - duvida - seguro cartao protegido,Conta,Contratação de seguro
+w3 - problema - cliente conta simples cancelada sem registro,Conta,Gestão da Conta
+w3 - duvida - compra via samsung pay,Cartão,Wallet
+w3 - duvida - valor total compras parceladas,Cartão,Informações sobre fatura
+w3 - problema - cliente migrado,Cartão,Migração pag para will
+w3 - solicitacao - bloqueio contactless,Cartão,Funcionalidades de cartão
+w3 - problema - desacordo comercial,Cartão,Problema com compra
+wb-be,Conta,Pagamento de Boleto
+w3 - solicitacao - alterar telefone pelo app,Fraude,Alteração de Cadastro
+w3 - solicitacao - alterar telefone,Fraude,Alteração de Cadastro
+wb-dp,Conta,Dúvidas PIX
+wb-lca,Conta,Dúvidas Marketplace
+w3 - duvida - dda,Conta,DDA
+wb-af,Cartão,Antecipação de Fatura
+w3 - solicitacao - DDC emprestimo pessoal,Empréstimos,Solicitações Empréstimo Pessoal
+w3 - duvida - cancelar pix agendado,Conta,Envio de PIX
+w3 - solicitacao - cancelar desinteresse,Cartão,Cancelamento de conta
+w3 - duvida - confirmacao de entrega,Cartão,Rastreio de cartão
+w3 - problema - pix debito nao compensado no destino,Conta,Envio de PIX
+w3 - duvida - soma da fatura em aberto,Cartão,Dúvidas sobre pagamento de fatura
+w3 - duvida - conta pessoa juridica,Conta,Novas funcionalidades
+w3 - solicitacao - alterar endereco de envio,Cartão,Rastreio de cartão
+w3 - reclamacao - perfil falso,Fraude,Falsidade ideológica
+wb-acle,Cartão,Reenvio de cartão
+wb-ae,Cartão,Reenvio de cartão
+w3 - problema - bug no site/app loja will,Conta,Problemas no site ou app loja will
+w3 - problema - credito provisorio,Fraude,Problema de lançamento de crédito
+w3 - duvida - compensacao saldo conta,Cartão,Compensação fatura
+w3 - problema - reverso compra,Cartão,Recusa de compra
+w3 - problema - excluir chave pix,Conta,Chaves PIX
+w3 - duvida - pagar boleto externo com credito,Cartão,Boleto no crédito
+w3 - problema - valor das proximas faturas,Cartão,Faturas futuras
+w3 - solicitacao - exclusao dda e-mail,Conta,DDA
+w3 - duvida - black friday seguros,Conta,Seguros Black Friday
+w3 - duvida - informe de rendimento will financeira,Conta,Rendimento Conta
+w3 - duvida - agendar recarga,Conta,Gestão de Recarga
+w3 - problema - nao reconhece compra online,Fraude,Não reconhecimento de compra no crédito
+w3 - duvida - entrega cartao,Cartão,Rastreio de cartão
+w3 - duvida - valor minimo,Cartão,Dúvidas sobre pagamento de fatura
+wb-ras,Cartão,Rastreio de cartão
+wb-cd,Conta,Uso do cartão de débito
+w3 - duvida - cashback loja will,Conta,Dúvidas regras do cashback
+w3 - problema - dda,Conta,DDA
+w3 - solicitacao - cartao de debito conta simples,Conta,Uso do cartão de débito
+wb-pcec,Cartão,Problema no recebimento do cartão
+w3 - problema - recarga estornada,Conta,Gestão de Recarga
+w3 - problema - erro emprestimo pessoal,Empréstimos,Erros Empréstimo Pessoal
+w3 - problema - cadastrar chave pix,Conta,Chaves PIX
+w3 - problema - autosservico pix parcelado,Empréstimos,Dúvidas PIX Parcelado Pós Venda
+w3 - duvida - resultado da proposta,Cartão,Resultado da Proposta
+w3 - solicitacao - alterar e-mail,Fraude,Alteração de Cadastro
+w3 - duvida - cartao virtual,Cartão,Cartão
+w3 - duvida - pagar fatura,Cartão,Dúvidas sobre pagamento de fatura
+w3 - duvida - nao elegivel pix parcelado,Empréstimos,Solicitação PIX Parcelado Pós Venda
+w3 - solicitacao - cancelar concorrencia,Cartão,Cancelamento de conta
+w3 - problema - pagamento duplicado,Cartão,Fatura duplicada
+w3 - duvida - dados do cartao,Cartão,Cartão
+wb-am,Cartão,Reenvio de cartão
+wb-rcd,Cartão,Segunda via cartão
+w3 - problema - nao reconhece boleto pago no app,Fraude,Não reconhecimento de recarga/título/ted
+w3 - duvida - debito online,Conta,Uso do cartão de débito
+w3 - duvida - campanha MGM aumento de limite,Cartão,Dúvidas sobre campanha
+w3 - duvida - gerar fatura,Cartão,Gerar fatura
+w3 - problema - bloqueio med,Fraude,Conta bloqueada ou desbloqueada
+w3 - problema - compra parcelada,Cartão,Informações sobre fatura
+w3 - duvida - nao elegivel pix credito,Cartão,Todos os itens de pix no crédito
+w3 - duvida - realizar saque,Conta,Gestão de Saque
+wb-sde,Conta,Boleto de Depósito
+w3 - solicitacao - 2 via cartao vencido,Cartão,Segunda via cartão
+w3 - problema - comprovante pix,Conta,Gerar comprovante de PIX
+w3 - solicitacao - assuntos diversos fgts,Empréstimos,Solicitações FGTS
+w3 - reclamacao - seguro cartao protegido,Conta,Contratação de seguro
+w3 - duvida - compra em processamento,Cartão,Dúvidas em lançamentos
+w3 - reclamacao - estorno,Cartão,Cancelamento de compra no crédito
+wb-afpf,Cartão,Fechamento Fatura
+w3 - problema - token alteracao senha sms,Cartão,Token SMS
+w3 - solicitacao - recusa aumento de limite,Cartão,Dúvidas sobre campanha
+w3 - problema - valor total compras parceladas,Cartão,Informações sobre fatura
+wb-bvc,Cartão,Desbloqueio de cartão
+w3 - problema - dificil acesso/zona rural Mobi Logistica,Cartão,Problema no recebimento do cartão
+w3 - duvida - agendar pix,Conta,Envio de PIX
+w3 - problema - token e-mail proposta,Cartão,Token E-mail
+w3 - problema - nao reconhece compra via samsung pay,Fraude,Não reconhecimento de compra no crédito
+w3 - duvida - cadastro positivo,Cartão,Alteração de Cadastro
+w3 - problema - nao reconhece compra cartao virtual,Fraude,Não reconhecimento de compra no crédito
+w3 - solicitacao - cancelar conta simples,Conta,Cancelamento de conta simples
+w3 - problema - visualizar saldo,Conta,Gestão de Extrato
+w3 - problema - recarga no app,Conta,Gestão de Recarga
+w3 - problema - separar dinheiro,Conta,Separar Dinheiro
+w3 - duvida - token 3ds,Fraude,Token 3DS
+w3 - problema - compra via google pay,Cartão,Wallet
+w3 - problema - atraso producao,Cartão,Rastreio de cartão
+w3 - problema - agendar pix,Conta,Envio de PIX
+wb-cn,Cartão,Recusa de compra
+w3 - duvida - formas de pagamento,Cartão,Dúvidas sobre pagamento de fatura
+w3 - duvida - adicionar dinheiro na conta,Conta,Gestão de Saldo
+w3 - duvida - seguranca compras,Cartão,Funcionalidades de cartão
+w3 - duvida - status fgts,Empréstimos,Dúvidas FGTS
+w3 - problema - token alterar e-mail,Fraude,Alteração de Cadastro
+w3 - denuncia - nao cliente golpe boleto,Fraude,Denúncia
+w3 - problema - documento proposta,Cartão,Problema de Cadastro da proposta
+w3 - solicitacao - operacao reconhecida,Cartão,Dúvidas sobre pagamento de fatura
+w3 - problema - pagar fatura,Cartão,Dúvidas sobre pagamento de fatura
+wb-vdea,Fraude,Validação novo dispositivo
+w3 - duvida - autosservico emprestimo pessoal,Empréstimos,Dúvidas Empréstimo Pessoal
+w3 - duvida - prazo de compensacao,Cartão,Compensação fatura
+w3 - problema - compra nao autorizada presencial,Cartão,Recusa de compra
+w3 - solicitacao - cancelar cliente fraudado,Cartão,Cancelamento de conta
+w3 - duvida - fatura por e-mail,Cartão,Gerar fatura
+w3 - duvida - cadastro app,Cartão,Status da Proposta
+w3 - problema - cancelar pix agendado,Conta,Envio de PIX
+w3 - problema - desconhece assinatura de entrega,Cartão,Problema no recebimento do cartão
+w3 - duvida - tarifas e encargos compra,Cartão,Compra internacional
+w3 - problema - falsidade ideologica,Fraude,Falsidade ideológica
+w3 - duvida - informe de rendimento will,Conta,Rendimento Conta
+w3 - problema - realizar deposito,Conta,Boleto de Depósito
+w3 - solicitacao - DDC pix parcelado,Empréstimos,Solicitação PIX Parcelado Pós Venda
+w3 - problema - soma da fatura em aberto,Cartão,Dúvidas sobre pagamento de fatura
+w3 - reclamacao - adicionar dinheiro na conta,Conta,Gestão de Saldo
+w3 - duvida - cadastrar chave pix,Conta,Chaves PIX
+w3 - problema - cartao virtual,Cartão,Cartão
+w3 - problema - alterar endereco,Fraude,Alteração de Cadastro
+w3 - solicitacao - cancelar recarga,Conta,Gestão de Recarga
+w3 - duvida - gamificacao,Cartão,Campanha gamificação
+w3 - solicitacao - exclusao dda produto,Conta,DDA
+w3 - problema - pagamento boleto externo duplicado,Conta,Pagamento de Boleto
+w3 - problema - pix no credito,Cartão,Todos os itens de pix no crédito
+w3 - duvida - cartao dual,Cartão,Cartão
+w3 - solicitacao - cancelar mal atendimento,Cartão,Cancelamento de conta
+wb-hdco,Cartão,Cartão
+wb-cb,Cartão,Cartão
+w3 - problema - compra via samsung pay,Cartão,Wallet
+w3 - problema - cupom loja will,Conta,Cupom loja will
+w3 - duvida - token e-mail proposta,Cartão,Token E-mail
+w3 - duvida - saque limite de credito,Conta,Gestão de Saque
+w3 - solicitacao - credito na conta simples,Conta,Limite de crédito em Conta Simples
+w3 - duvida - open finance,Conta,Open Finance
+wb-caf,Cartão,Compensação fatura
+w3 - solicitacao - cancelar atraso na entrega,Cartão,Cancelamento de conta
+wb-dmcf,Cartão,Dúvidas em lançamentos
+w3 - problema - valor descontado indevidamente no debito,Conta,Uso do cartão de débito
+w3 - solicitacao - informe de rendimento will,Conta,Rendimento Conta
+w3 - problema - investimento cdb,Conta,Investimento CDB
+w3 - solicitacao - cancelar motivos pessoais,Cartão,Cancelamento de conta
+w3 - problema - erro senha cartao fisico,Cartão,Funcionalidades de cartão
+w3 - problema - nao reconhece compra chip,Fraude,Não reconhecimento de compra no crédito
+wb-co,Cartão,Cartão
+w3 - solicitacao - 2 via desistencia,Cartão,Segunda via cartão
+w3 - problema - cartao em devolucao,Cartão,Rastreio de cartão
+wb-ge,Conta,Gestão de Extrato
+w3 - duvida - comprovante de pagamento de fatura,Cartão,Informações sobre fatura
+w3 - problema - saldo conta,Cartão,Dúvidas sobre pagamento de fatura
+w3 - problema - recarga incorreta,Conta,Gestão de Recarga
+w3 - problema - desbloquear cartao,Cartão,Desbloqueio de cartão
+w3 - duvida - rastreio do cartao,Cartão,Rastreio de cartão
+w3 - solicitacao - bloqueio perda roubo dispositivo,Fraude,Validação novo dispositivo
+wb-ran,Fraude,Resultado análise de fraude
+w3 - complementar - nrc,Fraude,Não reconhecimento de compra no crédito
+w3 - duvida - extrato ou saldo conta,Conta,Gestão de Extrato
+w3 - problema - solicitar 2 via,Cartão,Segunda via cartão
+w3 - duvida - funcionalidades futuras pix,Conta,Dúvidas PIX
+w3 - problema - alterar senha app,Fraude,Alteração de senha
+w3 - problema - quitacao,Cartão,Dúvidas sobre pagamento de fatura
+w3 - problema - endereco proposta,Cartão,Alteração de Cadastro
+w3 - problema - recarga multiplicidade,Conta,Gestão de Recarga
+w3 - reclamacao - cancelamento por desinteresse comercial fraude,Fraude,Desinteresse comercial
+w3 - duvida - contratacao fgts recusados no credito,Empréstimos,Dúvidas FGTS
+w3 - problema - compra nao autorizada debito online,Conta,Uso do cartão de débito
+wb-ccc,Cartão,Cancelamento de conta
+w3 - problema - nao reconhece compra - validacao 3ds,Fraude,Token 3DS
+w3 - duvida - separar dinheiro,Conta,Separar Dinheiro
+w3 - problema - alterar telefone,Fraude,Alteração de Cadastro
+w3 - duvida - autosservico pix parcelado,Empréstimos,Dúvidas PIX Parcelado Pós Venda
+w3 - solicitacao - fluxo de alteracao senha acesso,Fraude,Alteração de senha
+wb-as,Fraude,Alteração de senha
+w3 - problema - nao reconhece recarga,Fraude,Não reconhecimento de recarga/título/ted
+w3 - problema - realizar ted,Conta,Envio de TED
+w3 - problema - instabilidade na caixa fgts,Empréstimos,Erro FGTS
+w3 - problema - ted duplicada,Conta,Envio de TED
+wb-dc,Cartão,Desbloqueio de cartão
+w3 - duvida - cadastramento de cartao google pay,Cartão,Wallet
+w3 - duvida - alerta de seguranca,Fraude,Alerta transação pix
+w3 - solicitacao - assuntos diversos pix parcelado,Empréstimos,Solicitação PIX Parcelado Pós Venda
+w3 - duvida - black friday cdb,Conta,Black Friday CDB
+w3 - problema - realizar saque,Conta,Gestão de Saque
+w3 - problema - recebimento ted,Conta,Recebimento de TED
+w3 - duvida - rendimento conta,Conta,Rendimento Conta
+w3 - duvida - informe de rendimento no pag,Conta,Rendimento Conta
+w3 - duvida - valor total da fatura,Cartão,Não entendimento fatura
+w3 - solicitacao - alterar e-mail pelo app,Fraude,Alteração de Cadastro
+w3 - duvida - melhor dia de compra,Cartão,Vencimento fatura
+w3 - duvida - nao elegivel emprestimo pessoal,Empréstimos,Dúvidas Empréstimo Pessoal
+w3 - problema - prazo de compensacao,Cartão,Compensação fatura
+w3 - solicitacao - inclusao dda,Conta,DDA
+w3 - solicitacao - incluir dependente,Conta,Novas funcionalidades
+w3 - solicitacao - acionar seguro,Conta,Contratação de seguro
+w3 - reclamacao - notificacao loja will,Conta,Comunicação Loja will
+w3 - solicitacao - cancelar proposta,Cartão,Resultado da Proposta
+w3 - problema - cadastramento de cartao google pay,Cartão,Wallet
+w3 - solicitacao - 2 via cartao perdido,Cartão,Segunda via cartão
+w3 - problema - pix nao compensado will,Conta,Recebimento de PIX
+w3 - duvida - campanha toma promocao,Cartão,Dúvidas sobre campanha
+w3 - duvida - apple pay,Cartão,Wallet
+w3 - problema - selfie proposta,Cartão,Problema de Cadastro da proposta
+w3 - duvida - seguro conta protegida,Conta,Contratação de seguro
+w3 - solicitacao - 2 via cartao destruido,Cartão,Segunda via cartão
+w3 - duvida - portabilidade de salario,Conta,Novas funcionalidades
+w3 - duvida - pagar boleto externo,Conta,Pagamento de Boleto
+w3 - problema - alterar e-mail,Fraude,Alteração de Cadastro
+w3 - duvida - acao emprestimos serasa,Empréstimos,Ação Empréstimo Serasa
+wb-cep,Conta,Envio de PIX
+w3 - problema - pix duplicado,Conta,Envio de PIX
+w3 - reclamacao - embalagem danificada,Cartão,Problema no recebimento do cartão
+w3 - duvida - idade minima,Cartão,Status da Proposta
+w3 - problema - compra recusada prilex com fraude,Fraude,Não reconhecimento de compra no crédito
+w3 - duvida - conta cancelada com emprestimo ativo,Cartão,Cancelamento de conta
+w3 - reclamacao - bloqueio alteracao cadastral,Fraude,Validação novo dispositivo
+w3 - solicitacao - resultado analise de contestacao,Fraude,Resultado análise de fraude
+wb-nrc,Cartão,Não reconhecimento de compra no crédito
+w3 - duvida - desbloqueio cartao,Cartão,Desbloqueio de cartão
+w3 - solicitacao - declaracao de titularidade,Conta,Gestão da Conta
+w3 - problema - ajuste fatura,Cartão,Antecipação de Fatura
+w3 - duvida - investimento will,Conta,Gestão do Bolso/Rendimento Conta
+w3 - duvida - tarifas e encargos saque debito,Conta,Gestão de Saque
+w3 - duvida - contratacao de seguro debito em conta,Conta,Contratação de seguro
+w3 - solicitacao - 2 via cliente migrado,Cartão,Segunda via cartão
+w3 - solicitacao - autorizacao de dispositivo,Fraude,Validação novo dispositivo
+w3 - problema - campanha toma promocao,Cartão,Dúvidas sobre campanha
+wb-gp,Fraude,Falsidade ideológica
+w3 - problema - ted nao compensada,Conta,Envio de TED
+w3 - duvida - excluir chave pix,Conta,Chaves PIX
+w3 - problema - recarga divergente,Conta,Gestão de Recarga
+w3 - problema - entrega cartao debito conta simples,Conta,Uso do cartão de débito
+w3 - problema - gamificacao,Cartão,Campanha gamificação
+w3 - duvida - primeiro desbloqueio cartao,Cartão,Desbloqueio de cartão
+w3 - problema - primeiro desbloqueio cartao,Cartão,Desbloqueio de cartão
+wb-pco,Cartão,Parcelamento de compra
+w3 - duvida - recebimento pix,Conta,Recebimento de PIX
+w3 - duvida - indicar amigos,Cartão,Status da Proposta
+w3 - duvida - confirmar cancelamento,Cartão,Cancelamento de conta
+w3 - duvida - descadastramento de cartao google pay,Cartão,Wallet
+w3 - problema - biometria facial fgts,Fraude,Biometria FGTS
+w3 - duvida - pagar boleto externo parcial,Conta,Boleto externo parcial
+w3 - problema - campanha MGM aumento de limite,Cartão,Dúvidas sobre campanha
